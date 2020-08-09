@@ -1,8 +1,8 @@
 package com.jhipster.repository;
 
-import com.jhipster.domain.Authority;
-
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.jhipster.domain.Authority;
 
 /**
  * Spring Data JPA repository for the {@link Authority} entity.
